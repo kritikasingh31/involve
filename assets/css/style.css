@@ -260,7 +260,7 @@ a.hvr-sweep-to-left:hover:before, a.hvr-sweep-to-left:focus:before, a.hvr-sweep-
   float:left;
 }
 .new p a,.new p.sign a,.new p.sign{
-  color:#838181;
+  color:#a19f9f;
   font-weight: 900;
   font-size: 0.9em;
     margin-top:100px;
@@ -365,7 +365,7 @@ body h1 {
   }
  .new p.sign{
     margin-top: -18px !important;
-    margin-left:255px !important;
+    margin-left:275px !important;
   }
   .app-video input[type="submit"] {
     font-size: 16px;
@@ -444,7 +444,7 @@ body h1 {
     font-size: 0.8em;
   }
   .new p.sign a{
-    font-size: 0.89em;
+    font-size: 0.9em;
   }
 
 }
